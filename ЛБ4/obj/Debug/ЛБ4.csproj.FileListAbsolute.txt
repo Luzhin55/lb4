@@ -1,0 +1,9 @@
+C:\Users\Дима\source\repos\ЛБ4\ЛБ4\bin\Debug\ЛБ4.exe.config
+C:\Users\Дима\source\repos\ЛБ4\ЛБ4\bin\Debug\ЛБ4.exe
+C:\Users\Дима\source\repos\ЛБ4\ЛБ4\bin\Debug\ЛБ4.pdb
+C:\Users\Дима\source\repos\ЛБ4\ЛБ4\obj\Debug\ЛБ4.csproj.AssemblyReference.cache
+C:\Users\Дима\source\repos\ЛБ4\ЛБ4\obj\Debug\ЛБ4.Properties.Resources.resources
+C:\Users\Дима\source\repos\ЛБ4\ЛБ4\obj\Debug\ЛБ4.csproj.GenerateResource.cache
+C:\Users\Дима\source\repos\ЛБ4\ЛБ4\obj\Debug\ЛБ4.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\ЛБ4\ЛБ4\obj\Debug\ЛБ4.exe
+C:\Users\Дима\source\repos\ЛБ4\ЛБ4\obj\Debug\ЛБ4.pdb
